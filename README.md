@@ -6,18 +6,19 @@ Convert from one language to another.
 
 - [Table of Contents](#table-of-contents)
 - [Installation and Requirements](#installation-and-requirements)
-  - [Go Installation](#go-installation)
+  - [Go Get Installation](#go-get-installation)
 - [Documentation](#documentation)
 - [Support](#support)
 - [Product Roadmap](#product-roadmap)
 - [Contributing](#contributing)
 - [License](#license)
+- [Special Thanks](#special-thanks)
 
 ## Installation and Requirements
 
-### Go Installation
+### Go Get Installation
 
-To install Irishman Translate through Go, open a new terminal in your project directory and run the following command.
+To install Irishman Translate through Go Get, open a new terminal in your project directory and run the following command.
 
 ```bash
 go get github.com/irishman-cloud/translate-go
@@ -33,8 +34,14 @@ To see a full Product Roadmap for Irishman Translate, please go to [this page](h
 
 ## Contributing
 
-Although this project is fully available under the MIT license, we do not accept any controbutions on this repository. We really love the open-source community, but we have some concerns with user contributed code in our legal responsibility to our clients and customers. That said, we do have several open source projects that we support financially, which you can see on [our website](https://irishman.cloud/).
+Although this project is fully available under the MIT license, we do not accept any contributions on this repository. We really love the open-source community, but we have some concerns with user contributed code in our legal responsibility to our clients and customers. That said, we do have several open source projects that we support financially, which you can see on [our website](https://irishman.cloud/).
 
 ## License
 
-All of our Client SDKs are fully open-source under the MIT license. This license is one of the most permissive licenses in the open-source world. **Please note:** our server software is propetary, only the client software that allows people to communicate with our servers is open-source.
+All of our Client SDKs are fully open-source under the MIT license. This license is one of the most permissive licenses in the open-source world. **Please note:** our server software is proprietary, only the client software that allows people to communicate with our servers is open-source.
+
+## Special Thanks
+
+- Robert Griesemer
+- Rob Pike
+- Ken Thompson
