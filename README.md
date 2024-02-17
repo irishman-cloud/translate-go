@@ -1,6 +1,9 @@
 # ![Irishman Translate's Go SDK](https://raw.githubusercontent.com/irishman-cloud/translate-go/master/.github/banner.svg)
 
-Convert from one language to another.
+[![MIT License](https://img.shields.io/github/license/irishman-cloud/translate-go)](https://github.com/irishman-cloud/translate-go)
+[![Issue Count](https://img.shields.io/gitea/issues/open/irishman-cloud/translate-go)](https://github.com/irishman-cloud/translate-go/issues)
+
+<b align="center">Convert from one language to another.</b>
 
 ## Table of Contents
 
